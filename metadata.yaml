@@ -1,0 +1,39 @@
+_repo: Our-Little-Turkish-Cousin_42204
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgeman, Lewis Jesse
+    - Bridgman, Lewis Jesse
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 42204-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wade, Mary Hazelton Blanchard
+    alias: Wade, Mary Hazleton
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '5065'
+    url: http://www.gutenberg.org/2009/agents/5065
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42204'
+  lccn: 04018785
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Turkey -- Juvenile literature'
+- !lcc 'PZ'
+- !lcc 'DR'
+title: Our Little Turkish Cousin
+url: http://www.gutenberg.org/ebooks/42204
